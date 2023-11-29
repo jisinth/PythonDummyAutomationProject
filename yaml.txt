@@ -1,1 +1,18 @@
 
+## Code Structure
+
+- `traffic_light.py`: Contains the `TrafficLight` class with methods to simulate state changes.
+- `README.md`: Documentation about the project (you're currently reading it).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use and modify the code for personal or educational purposes.
+
+## Contributions
+
+Contributions to improve or expand the functionality of this traffic light simulator are welcome. Feel free to open an issue or create a pull request following the [Contribution Guidelines](CONTRIBUTING.md).
+
+---
+
+For any inquiries or suggestions, please contact me at your.email@example.com.
+
